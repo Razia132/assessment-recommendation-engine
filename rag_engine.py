@@ -32,3 +32,9 @@ def recommend(query, vectorstore):
     """
 
     return llm(prompt)
+def recommend_json(query, vectorstore):
+    docs = vectorstore.similarity_search(query, k=3)
+    return {
+        "query": query,
+        "recommended_assessments": [d.page_content for d in docs]
+    }
