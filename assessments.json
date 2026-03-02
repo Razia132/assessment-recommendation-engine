@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Cognitive Ability Test",
+    "roles": ["Software Engineer", "Analyst", "Support"],
+    "skills": [],
+    "level": "All"
+  },
+  {
+    "name": "Programming Skills - Python",
+    "roles": ["Software Engineer", "Data Analyst"],
+    "skills": ["Python"],
+    "level": "Fresher"
+  },
+  {
+    "name": "Data Structures Assessment",
+    "roles": ["Software Engineer"],
+    "skills": ["DSA"],
+    "level": "Fresher"
+  },
+  {
+    "name": "SQL Skills Test",
+    "roles": ["Data Analyst", "Software Engineer"],
+    "skills": ["SQL"],
+    "level": "All"
+  }
+]
