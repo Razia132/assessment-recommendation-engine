@@ -1,0 +1,22 @@
+[
+  {
+    "assessment": "Cognitive Ability Test",
+    "description": "Measures logical reasoning, numerical ability, and problem solving.",
+    "roles": ["Software Engineer", "Analyst", "Support"]
+  },
+  {
+    "assessment": "Programming Skills - Python",
+    "description": "Evaluates Python fundamentals, data structures, and coding logic.",
+    "roles": ["Software Engineer", "Data Analyst"]
+  },
+  {
+    "assessment": "Data Structures Assessment",
+    "description": "Tests knowledge of arrays, linked lists, stacks, queues, and algorithms.",
+    "roles": ["Software Engineer"]
+  },
+  {
+    "assessment": "SQL Skills Test",
+    "description": "Assesses database querying, joins, and data manipulation.",
+    "roles": ["Data Analyst", "Software Engineer"]
+  }
+]
